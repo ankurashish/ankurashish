@@ -23,8 +23,8 @@
 
 ### 🔥 Projects
 - 🧙‍♂️ [**QuestRoyale**](https://quest-royale.vercel.app) — Gamified daily tasks system (React-based).
-- 🎵 [**Spotify Clone**](spotify-clone-sable-nine.vercel.app) — Clean Spotify clone using HTML, CSS and JavaScript.
-- 🐦 [**Twitter/X.com Clone**](twitter-ui-clone-ivory.vercel.app) — Frontend clone of X.com with TailWind CSS.
+- 🎵 [**Spotify Clone**](https://spotify-clone-sable-nine.vercel.app) — Clean Spotify clone using HTML, CSS and JavaScript.
+- 🐦 [**Twitter/X.com Clone**](https://twitter-ui-clone-ivory.vercel.app) — Frontend clone of X.com with TailWind CSS.
 
 ---
 
